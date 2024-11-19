@@ -10,10 +10,10 @@
 </ul>
 
 # Components
-* [Schema](https://github.com/Tejas0718/Social-Media-Database-Project/blob/main/queries.sql)
-* [Database](https://github.com/Tejas0718/Social-Media-Database-Project/tree/main/Database)
-* [ER Diagram](https://github.com/Tejas0718/Social-Media-Database-Project/blob/main/ER%20Diagram.png)
-* [Sample Queries](https://github.com/Tejas0718/Social-Media-Database-Project/blob/main/queries.sql)
+* [Schema](https://github.com/TejasMhaske18/Social-Media-Database-Project/blob/main/queries.sql)
+* [Database](https://github.com/TejasMhaske18/Social-Media-Database-Project/tree/main/Database)
+* [ER Diagram](https://github.com/TejasMhaske18/Social-Media-Database-Project/blob/main/ER%20Diagram.png)
+* [Sample Queries](https://github.com/TejasMhaske18/Social-Media-Database-Project/blob/main/queries.sql)
 
 
 ## Contributing
