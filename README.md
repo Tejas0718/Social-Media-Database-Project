@@ -13,7 +13,7 @@
 * [Schema](https://github.com/Tejas0718/Social-Media-Database-Project/blob/main/queries.sql)
 * [Database](https://github.com/Tejas0718/Social-Media-Database-Project/tree/main/Database)
 * [ER Diagram](https://github.com/Tejas0718/Social-Media-Database-Project/blob/main/ER%20Diagram.png)
-* [Sample Queries](https://github.com/ssahibsingh/Social-Media-Database-Project/blob/9c3312aaf59acdce09fe6f4857e96b371fa58b40/queries.sql)
+* [Sample Queries](https://github.com/Tejas0718/Social-Media-Database-Project/blob/main/queries.sql)
 
 
 ## Contributing
